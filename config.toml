@@ -1,4 +1,4 @@
-baseURL = "https://blog.arindamsg.xyz/"
+baseURL = ""
 languageCode = "en-us"
 title = "Arindam Sengupta's Personal Blog"
 theme = "kiss-em"
