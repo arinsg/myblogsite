@@ -6,3 +6,5 @@ title = "My second blog"
 
 +++
 Some content to test forestry.
+
+<!--more-->
